@@ -99,7 +99,7 @@ namespace calculator
             this.button1.BackColor = System.Drawing.Color.BurlyWood;
             this.button1.Location = new System.Drawing.Point(168, 316);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(75, 38);
+            this.button1.Size = new System.Drawing.Size(132, 82);
             this.button1.TabIndex = 3;
             this.button1.Text = "cộng";
             this.button1.UseVisualStyleBackColor = false;
@@ -110,7 +110,7 @@ namespace calculator
             this.button2.BackColor = System.Drawing.Color.BurlyWood;
             this.button2.Location = new System.Drawing.Point(443, 316);
             this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(75, 38);
+            this.button2.Size = new System.Drawing.Size(131, 82);
             this.button2.TabIndex = 4;
             this.button2.Text = "trừ";
             this.button2.UseVisualStyleBackColor = false;
